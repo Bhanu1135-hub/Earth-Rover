@@ -1,18 +1,5 @@
 # AI Robot: Object Detection with TensorFlow Lite on Raspberry Pi & Live-Stream results on browser 
 
-<p align="left">
-Read the article: <a href='https://helloworld.co.in/article/ai-robot-object-detection-tensorflow-lite-raspberry-pi-live-stream-results-browser' target='_blank'>
-   <img src='https://github.com/jiteshsaini/files/blob/main/img/logo3.gif' height='40px'>
-</a> Watch the video on Yotube: 
-<a href='https://youtu.be/1pnUkhIL7QA' target='_blank'>
-   <img src='https://github.com/jiteshsaini/files/blob/main/img/btn_youtube.png' height='40px'>
-</a>
-</p>
-                    
-<p align="center">
-   <img src="https://github.com/jiteshsaini/files/blob/main/img/obj_det.gif">
-</p>
-
 ## Code Files
 The ML model used in this project is placed in 'all_models' directory inside parent directory.
 
