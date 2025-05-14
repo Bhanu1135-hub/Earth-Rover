@@ -1,4 +1,4 @@
-# Academic Project
+# Academic Project - Earth Rover
 
 This repo is an implementation of the robot EarthRover. The code of this robot is organised in various folders inside the directory 'earthrover'. The names of these folders briefly indicate the purpose of the code inside them. This repo focusses on the advanced capabilities embedded into the robot via use of Pre-trained Machine Learning models provided by "tensorflow.org" or created via online tool of Google called Teachable Machine. The following projects in this repo demonstrate how we can integrate Tensorflow Lite and such Machine Learning Models on a Raspberry Pi computer. You can further read about them by accessing their individual README.md file.
 
