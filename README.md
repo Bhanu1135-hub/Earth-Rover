@@ -34,3 +34,8 @@ The robot's camera view is streamed over LAN with overlays of image classificati
 The code for this project is placed in a folder named 'tm' inside the 'earthrover' directory. 
 The model used in this project is trained through Teachable Machine online tool by Google. 
 The model files are present in the same directory. Presently the model is trained to recognise hand gestures. You can train your own model using Teachable Machine and replace the model files to customise the project.
+
+## Academic Project Team 
+Dara Jeddaiah
+Damarla Bhanu Sai
+Pichikala Bhargav
