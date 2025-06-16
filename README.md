@@ -36,6 +36,6 @@ The model used in this project is trained through Teachable Machine online tool 
 The model files are present in the same directory. Presently the model is trained to recognise hand gestures. You can train your own model using Teachable Machine and replace the model files to customise the project.
 
 ## Academic Project Team 
-Dara Jeddaiah
-Damarla Bhanu Sai
-Pichikala Bhargav
+-Dara Jeddaiah
+-Damarla Bhanu Sai
+-Pichikala Bhargav
